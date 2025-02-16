@@ -1,0 +1,1 @@
+This repository contains a MATLAB function 'myFunction' that demonstrates an unhandled error when a negative input is provided. The original function throws an error. The solution file provides a modified version with error handling to provide more informative messages and avoid program crashes.
